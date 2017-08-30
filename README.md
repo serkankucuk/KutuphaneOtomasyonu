@@ -1,7 +1,7 @@
 # KutuphaneOtomasyonu
 
 Kütüphane otomasyonu.
-![alt text](https://github.com/serkankucuk/Kutuphane/blob/master/Uygulama%20Foto%C4%9Fraflar%C4%B1/Screenshot_4.png)
+![alt text](https://github.com/serkankucuk/KutuphaneOtomasyonu/blob/master/Uygulama%20Foto%C4%9Fraflar%C4%B1/Screenshot_4.png)
 
 Üniversitede yaptığım dönem projesidir. Eksiklikler ve hatalar olabilir. Ana dizinde bulunan Proje Raporu.docx dosyasından programın genel görünüşü ve içeriği ile alakalı bilgiler edinebilirsiniz.
 
